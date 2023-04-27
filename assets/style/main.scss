@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background-color: #000;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Courier New', Courier, monospace;
+}
+
+*,
+*:focus {
+  outline: none !important;
+}
+
+ol,
+ul {
+  margin: 0px;
+}
+
+.active-folder {
+  color: #1AAF5C;
+}
+
+a,
+a:hover,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
