@@ -1,0 +1,1 @@
+import{a as t,b as o,o as s,e}from"./entry.9457ae12.js";const c=""+new URL("bar.471c7a92.png",import.meta.url).href,n={},r=e("h1",null,"Nuxt3 x GitHup Pages",-1),a=e("img",{src:c,alt:"Discover Nuxt 3"},null,-1),_=[r,a];function i(l,u){return s(),o("div",null,_)}const m=t(n,[["render",i]]);export{m as default};
